@@ -1,0 +1,10 @@
+\.idea
+*.exe
+*.jar
+*.gob
+
+testdata
+*.Rhistory
+
+vendor
+.DS_Store
