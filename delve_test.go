@@ -10,7 +10,7 @@
 // limitations under the License.
 //
 
-package config
+package delve
 
 import (
 	"testing"

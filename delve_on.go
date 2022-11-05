@@ -12,7 +12,7 @@
 
 //go:build delve
 
-package config
+package delve
 
 // DebuggerEnabled is true when the debugger is enabled
 const DebuggerEnabled = true
